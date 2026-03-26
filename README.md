@@ -102,7 +102,7 @@ Feel free to fork this repo and send a pull request. If you'd like to contribute
 
 👥 Credits
 
-Created by Ishita Rajput
+Created by Shreya Singh
 
 Datasets from Goodreads and Kaggle
 
